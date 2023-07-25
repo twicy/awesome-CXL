@@ -1,6 +1,30 @@
 # awesome-CXL
 
-#### August 8 - 10, 2023
+### Webinars and tutorials
+
+#### 3 Jan 2023, **SDC 2022**
+
+- **Contents**:
+  - Architecture and variety of memory services that will be available to developers with the advent of CXL
+  - The different ways that developers will be able to access the memory services
+  - Examples of memory service APIs and how to use them
+- **Presented By**: Charles Fan, MemVerge
+- **Recording**: [SDC2022 – Memory Disaggregation and Pooling with CXL](https://youtu.be/guefZgKQPM8)
+
+#### 3 Dec 2022, **HotChips 34**
+
+- **Contents**:
+  - CXL overview and evolution
+  - CXL2/CXL3 coherency deep dive
+  - Memory use cases and challenges
+  - CXL3 Fabric introduction & use cases
+- **Presented By**: Ishwar Agarwal, Robert Blankenship(Intel); Prakash Chauhan, Meta, Mahesh Wagh, Tony Brewer, Micron, and Nathan Kalyanasundharam(AMD)
+- **Recording**: [HC34-T1: CXL](https://youtu.be/pHuHUeSmGGk)
+- **Slides**: [Hot Chips 34](https://hc34.hotchips.org/)
+
+### Papers and news
+
+#### 8 - 10 August, 2023
 
 - **Event**: [Flash Memory Summit](https://flashmemorysummit.com/)
 - **Presentations**:
@@ -31,6 +55,15 @@
 - **source code**: [[PATCH 5/5] Transparent Page Placement for Tiered-Memory](https://lwn.net/ml/linux-kernel/cover.1637778851.git.hasanalmaruf@fb.com/)
 
 ![](images/tpp.png)
+
+#### 21 October 2022, **USENIX ATC 2022**, **CXL 2.0 based on FPGA**
+
+- **Paper**: [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/system/files/atc22-gouk.pdf)
+- **Authors**: Donghyun Gouk and Sangwon Lee and Miryeong Kwon and Myoungsoo Jung
+- **Presentation**: [USENIX ATC '22 - Direct Access, High-Performance Memory Disaggregation with DirectCXL
+](https://www.youtube.com/watch?v=I7wF-TCHGEI)
+
+![](images/directcxl.png)
 
 #### 27 June 2022, **HotStorage 2022**
 
