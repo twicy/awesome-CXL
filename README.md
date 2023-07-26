@@ -1,8 +1,32 @@
 # awesome-CXL
 
-### Webinars and tutorials
+## Contents
 
-#### 3 Jan 2023, **SDC 2022**
+- [Quick Intro](#quick-intro)
+- [Webinars and tutorials](#webinars-and-tutorials)
+- [Papers and news](#papers-and-news)
+
+## Quick Intro
+
+- 3 min video about CXL: [Introduction to Compute Express Link™ (CXL™) Technology](https://youtu.be/HPpQLGIxZWM)
+
+![](images/intro_to_cxl.png)
+
+- 2 min video about CXL 2.0: [CXL™ 2.0 Overview](https://youtu.be/XP1sn9JkTg8)
+
+![](images/cxl2.0.png)
+
+- 3 min video about CXL 3.0: [Introducing Compute Express Link™ (CXL™) 3.0](https://youtu.be/_HWWh7cBMq4)
+
+![](images/cxl3.0.png)
+
+- 3 min video about CXL Cache Coherency: [Exploring Compute Express Link™ (CXL™) Cache Coherency](https://youtu.be/Z75iJqGK574)
+
+![](images/cxlcc.png)
+
+## Webinars and tutorials
+
+### 3 Jan 2023, **SDC 2022**
 
 - **Contents**:
   - Architecture and variety of memory services that will be available to developers with the advent of CXL
@@ -11,7 +35,9 @@
 - **Presented By**: Charles Fan, MemVerge
 - **Recording**: [SDC2022 – Memory Disaggregation and Pooling with CXL](https://youtu.be/guefZgKQPM8)
 
-#### 3 Dec 2022, **HotChips 34**
+![](images/sdc2022.png)
+
+### 3 Dec 2022, **HotChips 34**
 
 - **Contents**:
   - CXL overview and evolution
@@ -22,23 +48,25 @@
 - **Recording**: [HC34-T1: CXL](https://youtu.be/pHuHUeSmGGk)
 - **Slides**: [Hot Chips 34](https://hc34.hotchips.org/)
 
-### Papers and news
+![](images/hotchips34.png)
 
-#### 8 - 10 August, 2023
+## Papers and news
+
+### 8 - 10 August, 2023
 
 - **Event**: [Flash Memory Summit](https://flashmemorysummit.com/)
 - **Presentations**:
   - [Compute Express Link (CXL) 3.0: Enhancements to memory pooling and sharing​ ](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Tue.html#SARC-101-1)
   - [Compute Express Link (CXL) Device Ecosystem and Usage Models – Panel Session](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Thu.html#SARC-304-2)
 
-#### 27 March 2023, **CXL 1.1**
+### 27 March 2023, **CXL 1.1**
 
 - **Paper**: [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://arxiv.org/pdf/2303.15375)
 - **Authors**: Yan Sun and Yifan Yuan and Zeduo Yu and Reese Kuper and Ipoom Jeong and Ren Wang and Nam Sung Kim
 
 ![](images/demystify.png)
 
-#### 30 January 2023, **ASPLOS 2023**
+### 30 January 2023, **ASPLOS 2023**
 
 - **Paper**: [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms](https://doi.org/10.1145/3575693.3578835)
 - **Authors**: Li, Huaicheng and Berger, Daniel S. and Hsu, Lisa and Ernst, Daniel and Zardoshti, Pantea and Novakovic, Stanko and Shah, Monish and Rajadnya, Samir and Lee, Scott and Agarwal, Ishwar and Hill, Mark D. and Fontoura, Marcus and Bianchini, Ricardo
@@ -47,7 +75,7 @@
 
 ![](images/pond.png)
 
-#### 25 March 2023, **ASPLOS 2023**
+### 25 March 2023, **ASPLOS 2023**
 
 - **Paper**: [TPP: Transparent Page Placement for CXL-Enabled Tiered-Memory](https://arxiv.org/pdf/2206.02878)
 - **Authors**: Maruf, Hasan Al and Wang, Hao and Dhanotia, Abhishek and Weiner, Johannes and Agarwal, Niket and Bhattacharya, Pallab and Petersen, Chris and Chowdhury, Mosharaf and Kanaujia, Shobhit and Chauhan, Prakash
@@ -56,7 +84,7 @@
 
 ![](images/tpp.png)
 
-#### 21 October 2022, **USENIX ATC 2022**, **CXL 2.0 based on FPGA**
+### 21 October 2022, **USENIX ATC 2022**, **CXL 2.0 based on FPGA**
 
 - **Paper**: [Direct Access, High-Performance Memory Disaggregation with DirectCXL](https://www.usenix.org/system/files/atc22-gouk.pdf)
 - **Authors**: Donghyun Gouk and Sangwon Lee and Miryeong Kwon and Myoungsoo Jung
@@ -65,7 +93,7 @@
 
 ![](images/directcxl.png)
 
-#### 27 June 2022, **HotStorage 2022**
+### 27 June 2022, **HotStorage 2022**
 
 - **Paper**: [Hello bytes, bye blocks: PCIe storage meets compute express link for memory expansion (CXL-SSD)](https://www.hotstorage.org/2022/camera-ready/hotstorage22-31/pdf/hotstorage22-31.pdf)
 - **Authors**: Jung, Myoungsoo
