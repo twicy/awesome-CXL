@@ -66,6 +66,15 @@
 
 ![](images/demystify.png)
 
+### 10 Mar 2023, **Software Simulated CXL**
+
+- **Paper**: [CXLMemSim: A pure software simulated CXL.mem for performance characterization](https://arxiv.org/pdf/2303.06153)
+- **Authors**: Yiwei Yang and Pooneh Safayenikoo and Jiacheng Ma and Tanvir Ahmed Khan and Andrew Quinn
+- **Presentation**: [CXLMemSim: A pure software simulated CXL.mem for performance characterization #92](https://youtu.be/1iFd8zbRblc)
+- **source code**: [CXL.mem Simulator](https://github.com/SlugLab/CXLMemSim)
+
+![](images/cxlmemsim.png)
+
 ### 30 January 2023, **ASPLOS 2023**
 
 - **Paper**: [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms](https://doi.org/10.1145/3575693.3578835)
