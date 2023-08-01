@@ -56,8 +56,22 @@
 
 - **Event**: [Flash Memory Summit](https://flashmemorysummit.com/)
 - **Presentations**:
-  - [Compute Express Link (CXL) 3.0: Enhancements to memory pooling and sharing​ ](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Tue.html#SARC-101-1)
+  - [Compute Express Link (CXL) 3.0: Enhancements to memory pooling and sharing​](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Tue.html#SARC-101-1)
   - [Compute Express Link (CXL) Device Ecosystem and Usage Models – Panel Session](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Thu.html#SARC-304-2)
+
+### July 11, 2023, **ATC 2023**
+
+- **Paper**: [CXL-ANNS: Software-Hardware Collaborative Memory Disaggregation and Computation for Billion-Scale Approximate Nearest Neighbor Search](https://www.usenix.org/system/files/atc23-jang.pdf)
+- **Authors**: Junhyeok Jang, Computer Architecture and Memory Systems Laboratory, KAIST; Hanjin Choi, Computer Architecture and Memory Systems Laboratory, KAIST and Panmnesia, Inc.; Hanyeoreum Bae and Seungjun Lee, Computer Architecture and Memory Systems Laboratory, KAIST; Miryeong Kwon and Myoungsoo Jung, Computer Architecture and Memory Systems Laboratory, KAIST and Panmnesia, Inc.
+
+![](images/cxl-anns-overview.png)
+
+### July 11, 2023, **ATC 2023**
+
+- **Paper**: [Overcoming the Memory Wall with CXL-Enabled SSDs](https://www.usenix.org/system/files/atc23-yang-shao-peng.pdf)
+- **Authors**: Shao-Peng Yang, Syracuse University; Minjae Kim, DGIST; Sanghyun Nam, Soongsil University; Juhyung Park, DGIST; Jin-yong Choi and Eyee Hyun Nam, FADU Inc.; Eunji Lee, Soongsil University; Sungjin Lee, DGIST; Bryan S. Kim, Syracuse University
+
+![](images/cxl-flash-overview.png)
 
 ### 27 March 2023, **CXL 1.1**
 
