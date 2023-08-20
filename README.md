@@ -73,6 +73,13 @@
 
 ![](images/cxl-flash-overview.png)
 
+### 12 May 2023, **DRAM supporting CXL 2.0**
+
+Samsung Develops Industry’s First CXL DRAM Supporting CXL 2.0! See more details [here](https://news.samsung.com/global/samsung-develops-industrys-first-cxl-dram-supporting-cxl-2-0)
+
+> Building on its development of the industry’s first CXL 1.1-based CXL DRAM in May of 2022, Samsung’s introduction of the 128GB CXL DRAM based on CXL 2.0 is expected to accelerate commercialization of next-generation memory solutions. The new CXL DRAM supports PCle 5.0 interface (x8 lanes) and provides bandwidth of up to 35GB per second.
+
+![sumsung-cxl2.0-dram.jpg](images/sumsung-cxl2.0-dram.jpg)
 ### 27 March 2023, **CXL 1.1**
 
 - **Paper**: [Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices](https://arxiv.org/pdf/2303.15375)
