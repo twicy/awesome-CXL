@@ -26,6 +26,12 @@
 
 ## Webinars and tutorials
 
+### CXL insights from the industry
+
+- [Micron](https://www.micron.com/solutions/server/cxl)
+- [MemVerge](https://memverge.com/cxl-industry-news/)
+- [Intel](https://www.intel.com/content/www/us/en/products/docs/memory-storage/optane-persistent-memory-to-cxl-attached-memory.html?wapkw=CXL)
+
 ### 3 Jan 2023, **SDC 2022**
 
 - **Contents**:
@@ -58,6 +64,7 @@
 - **Presentations**:
   - [Compute Express Link (CXL) 3.0: Enhancements to memory pooling and sharing​](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Tue.html#SARC-101-1)
   - [Compute Express Link (CXL) Device Ecosystem and Usage Models – Panel Session](https://www.flashmemorysummit.com/English/Conference/Program_at_a_Glance_Thu.html#SARC-304-2)
+  - [Top 3 Challenges and Solutions for Delivering the Full Premise of CXL](https://www.flashmemorysummit.com/English/Conference/Keynotes_2023.html)
 
 ### July 11, 2023, **ATC 2023**
 
