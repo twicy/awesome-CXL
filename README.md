@@ -58,6 +58,11 @@
 
 ## Papers and news
 
+### July 10, **OSDI 2024**
+
+- **Paper**: Managing Memory Tiers with CXL in Virtualized Environments
+- **Authors**: Yuhong Zhong, Columbia University, Microsoft Azure; Daniel S. Berger, Microsoft Azure, University of Washington; Carl Waldspurger, Carl Waldspurger Consulting; Ryan Wee, Columbia University; Ishwar Agarwal, Rajat Agarwal, Frank Hady, and Karthik Kumar, Intel; Mark D. Hill, University of Wisconsin–Madison; Mosharaf Chowdhury, University of Michigan; Asaf Cidon, Columbia University
+
 ### April 27, 2024, **ASPLOS 2024**
 
 - **Paper**: [TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer Attacks](https://dl.acm.org/doi/pdf/10.1145/3620666.3651325)
