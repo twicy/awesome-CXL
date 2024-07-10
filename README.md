@@ -58,6 +58,48 @@
 
 ## Papers and news
 
+### July 10, **OSDI 2024**
+
+- **Paper**: [Managing Memory Tiers with CXL in Virtualized Environments](https://pages.cs.wisc.edu/~markhill/papers/osdi2024_cxl.pdf)
+- **Authors**: Yuhong Zhong, Columbia University, Microsoft Azure; Daniel S. Berger, Microsoft Azure, University of Washington; Carl Waldspurger, Carl Waldspurger Consulting; Ryan Wee, Columbia University; Ishwar Agarwal, Rajat Agarwal, Frank Hady, and Karthik Kumar, Intel; Mark D. Hill, University of Wisconsin–Madison; Mosharaf Chowdhury, University of Michigan; Asaf Cidon, Columbia University
+
+![](images/memstrata.jpg)
+
+### April 27, 2024, **ASPLOS 2024**
+
+- **Paper**: [TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer Attacks](https://dl.acm.org/doi/pdf/10.1145/3620666.3651325)
+- **Authors**: Song, Chihun and Kim, Michael Jaemin and Wang, Tianchen and Ji, Houxiang and Huang, Jinghan and Jeong, Ipoom and Park, Jaehyun and Nam, Hwayong and Wi, Minbok and Ahn, Jung Ho and Kim, Nam Sung
+
+![](images/tarot.png)
+
+### April 22, 2024, **EuroSys 2024**
+
+- **Paper**: [Exploring Performance and Cost Optimization with ASIC-Based CXL Memory](https://dl.acm.org/doi/pdf/10.1145/3627703.3650061)
+- **Authors**: Tang, Yupeng and Zhou, Ping and Zhang, Wenhui and Hu, Henry and Yang, Qirui and Xiang, Hao and Liu, Tongping and Shan, Jiaxin and Huang, Ruoyun and Zhao, Cheng and Chen, Cheng and Zhang, Hui and Liu, Fei and Zhang, Shuai and Ding, Xiaoning and Chen, Jianjun.
+
+![](images/exploring-perf-and-cost-optimization.png)
+
+### March 2, **HPCA 2024**
+
+- **Paper**: [Salus: Efficient Security Support for CXL-Expanded GPU Memory](https://ieeexplore.ieee.org/document/10476444)
+- **Authors**: Abdullah, Rahaf and Lee, Hyokeun and Zhou, Huiyang and Awad, Amro
+
+![](images/salus.png)
+
+### March 2, **HPCA 2024**
+
+- **Paper**: [Computational CXL-Memory Solution for Accelerating Memory-Intensive Applications](https://ieeexplore.ieee.org/document/9969883)
+- **Authors**: Sim, Joonseop and Ahn, Soohong and Ahn, Taeyoung and Lee, Seungyong and Rhee, Myunghyun and Kim, Jooyoung and Shin, Kwangsik and Moon, Donguk and Kim, Euiseok and Park, Kyoung
+
+![](images/computational-cxl-mem-solution.png)
+
+### March 2, **HPCA 2024**
+
+- **Paper**: [An LPDDR-based CXL-PNM Platform for TCO-Efficient GPT Inference](https://ieeexplore.ieee.org/document/10476443)
+- **Authors**: Park, Sang-Soo and Kim, KyungSoo and So, Jinin and Jung, Jin and Lee, Jonggeon and Woo, Kyoungwan and Kim, Nayeon and Lee, Younghyun and Kim, Hyungyo and Kwon, Yongsuk and Kim, Jinhyun and Lee, Jieun and Cho, YeonGon and Tai, Yongmin and Cho, Jeonghyeon and Song, Hoyoung and Ahn, Jung Ho and Kim, Nam Sung
+
+![](images/lpddr-based-cxl-pnm.png)
+
 ### 8 - 10 August, 2023
 
 - **Event**: [Flash Memory Summit](https://flashmemorysummit.com/)
